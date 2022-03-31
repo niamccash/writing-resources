@@ -1,4 +1,4 @@
-# writing-resources
+# Writing Resources
 
-* [CBC Nonfiction Prize](CBC-Nonfiction-Prize.md)
 * [Manuscript Reviews](Manuscript-Reviews.md)
+* [CBC Nonfiction Prize](CBC-Nonfiction-Prize.md)
