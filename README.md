@@ -1,4 +1,4 @@
 # Writing Resources
 
 * [Manuscript Reviews](Manuscript-Reviews.md)
-* [CBC Literary Prize](CBC-Literary-Prize.md)
+* [CBC Literary Prizes](CBC-Literary-Prizes.md)
