@@ -1,6 +1,8 @@
 # Writing Resources
 
-* [Manuscript Reviews](Manuscript-Reviews.md)
-* [CBC Literary Prizes](CBC-Literary-Prizes.md)
+Resources for new (and experienced) writers. Maintained by [@niamccashWrites](https://twitter.com/niamccashWrites)
+
 * [Where to submit](where-to-submit.md)
 * [Who pays Toronto writers?](https://github.com/nevillepark/who-pays-writers)
+* [Manuscript Reviews](Manuscript-Reviews.md)
+* [CBC Literary Prizes](CBC-Literary-Prizes.md)
