@@ -2,5 +2,6 @@
 * [CBC - A guide to writing prizes for Canadians](https://www.cbc.ca/books/canadawrites/a-guide-to-writing-prizes-for-canadians-1.4110298#nonfiction)
 * [Magazine Awards - A Guide to Canadian Literary Mags](https://magazine-awards.com/en/a-guide-to-canadian-literary-mags/)
 * [Magazine Awards - A Guide to Writing Contests](https://magazine-awards.com/en/2019-writing-contests-the-ultimate-guide/)
-* [Where to submit](https://heavyfeatherreview.org/calls/)
+* [Heavy Feather Review - Where to submit](https://heavyfeatherreview.org/calls/)
+* [Chill Subs - Searchable online tool](https://chillsubs.com/browse)
 * [Five Minutes](https://www.fiveminutelit.com/submissions)
