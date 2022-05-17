@@ -22,3 +22,4 @@
 * [Before You Go: How to submit your essay to your loved ones](https://www.macleans.ca/opinion/before-you-go-how-to-submit-your-essay-to-your-loved-ones/)
 * [Chatelaine  - Writers Guidelines](https://www.chatelaine.com/about/writers-guidelines/)
 * [How to Pitch Condé Nast Traveler](https://www.cntraveler.com/info/how-to-pitch-conde-nast-traveler)
+* [Pitch Guide: Matt Ortile at Catapult](https://docs.google.com/document/d/1x6P_yuX0tzmznlzRTxHf_KbqVcuHnUEW294KEQmWHGI/edit)
