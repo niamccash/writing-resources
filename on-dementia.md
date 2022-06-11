@@ -6,4 +6,3 @@
 * [How Much a Dementia Patient Needs to Know by Oliver Sacks](https://www.newyorker.com/magazine/2019/03/04/how-much-a-dementia-patient-needs-to-know)
 * ['I am mine': This is what Alzheimer's is like at 41](https://www.macleans.ca/news/canada/i-am-mine-this-is-what-alzheimers-is-like-at-41/)
 * [They came to celebrate Jo. He would have loved it.](https://www.macleans.ca/news/canada/they-came-to-celebrate-jo-he-would-have-loved-it/)
-* 
