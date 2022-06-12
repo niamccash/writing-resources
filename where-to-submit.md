@@ -25,3 +25,6 @@
 * [Chatelaine  - Writers Guidelines](https://www.chatelaine.com/about/writers-guidelines/)
 * [How to Pitch Condé Nast Traveler](https://www.cntraveler.com/info/how-to-pitch-conde-nast-traveler)
 * [Pitch Guide: Matt Ortile at Catapult](https://docs.google.com/document/d/1x6P_yuX0tzmznlzRTxHf_KbqVcuHnUEW294KEQmWHGI/edit)
+
+## Rejection Wiki
+* https://www.rejectionwiki.com/index.php?title=Literary_Journals_and_Rejections
