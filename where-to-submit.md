@@ -4,6 +4,7 @@
 * [Magazine Awards - A Guide to Canadian Literary Mags](https://magazine-awards.com/en/a-guide-to-canadian-literary-mags/)
 * [Heavy Feather Review - Where to submit](https://heavyfeatherreview.org/calls/)
 * [Chill Subs - Searchable online tool](https://chillsubs.com/browse)
+* [Rankings of Literary Magazines](https://www.brechtdepoortere.com/rankings)
 
 ## Other places to submit (unlisted in the above)
 
