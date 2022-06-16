@@ -10,7 +10,6 @@ Writers in Residence Programs
 Miscellaneous
 
 * https://www.beckyblake.ca/services
-* https://www.alexandrawriters.org/what-we-offer-2/
-* https://cnfproduction.wpengine.com/product/manuscript-review/
+* https://www.alexandrawriters.org/manuscript-review-service.html
 * https://www.robinzvaneck.com/manuscript-reviewediting.html
 * https://www.bevkatzrosenbaum.com/editingservice.html
