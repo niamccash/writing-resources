@@ -7,10 +7,6 @@
 * [Brecht De Poortere's Rankings of Literary Magazines](https://www.brechtdepoortere.com/rankings)
 * [Erika Krouse’s Ranking of 500-ish Literary Magazines for Short Fiction](http://www.erikakrousewriter.com/erika-krouses-ocd-ranking-of-483-literary-magazines-for-short-fiction)
 
-## Other places to submit (unlisted in the above)
-
-* [Five Minutes](https://www.fiveminutelit.com/submissions)
-
 ## Contests
 
 * [CBC - A guide to writing prizes for Canadians](https://www.cbc.ca/books/canadawrites/a-guide-to-writing-prizes-for-canadians-1.4110298#nonfiction)
