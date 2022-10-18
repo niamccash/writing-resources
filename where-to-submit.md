@@ -4,8 +4,13 @@
 * [Magazine Awards - A Guide to Canadian Literary Mags](https://magazine-awards.com/en/a-guide-to-canadian-literary-mags/)
 * [Heavy Feather Review - Where to submit](https://heavyfeatherreview.org/calls/)
 * [Chill Subs - Searchable online tool](https://chillsubs.com/browse)
+
+
+## Magazine Rankings
+
 * [Brecht De Poortere's Rankings of Literary Magazines](https://www.brechtdepoortere.com/rankings)
 * [Erika Krouse’s Ranking of 500-ish Literary Magazines for Short Fiction](http://www.erikakrousewriter.com/erika-krouses-ocd-ranking-of-483-literary-magazines-for-short-fiction)
+* [2022 Literary Magazine Ranking–Nonfiction](https://cliffordgarstang.com/2022-literary-magazine-ranking-nonfiction/)
 
 ## Contests
 
